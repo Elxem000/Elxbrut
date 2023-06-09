@@ -1,7 +1,7 @@
 mv ElxUpdate.sh /data/data/com.termux/files/home
 
 
-rm -rf /data/data/com.termux/files/home/Elxbrut
+rm -r /data/data/com.termux/files/home/Elxbrut
 
 apt-get update
 
@@ -14,7 +14,7 @@ pkg install git
 
 
 git clone https://github.com/Elxem000/Elxbrut
-
+mv Elxbrute /data/data/com.termux/files/home
 rm -rf /data/data/com.termux/files/home/ElxUpdate.sh
 
 
