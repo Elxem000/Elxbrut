@@ -1,4 +1,4 @@
-mv ElxUpdate.sh $HOME
+mv ElxUpdate.sh /data/data/com.termux/files/home
 apt-get update
 apt-get upgrade
 pkg install myrepos
