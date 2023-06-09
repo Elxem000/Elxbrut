@@ -1,7 +1,7 @@
 mv ElxUpdate.sh /data/data/com.termux/files/home
 
 
-rm -r /data/data/com.termux/files/home/Elxbrut
+rm -rf /data/data/com.termux/files/home/Elxbrut
 
 apt-get update
 
