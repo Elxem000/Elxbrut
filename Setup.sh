@@ -1,7 +1,7 @@
 
 clear
 
-Elxem Yükleniyor.…⁠ᘛ⁠⁐̤⁠ᕐ⁠ᐷ
+echo "Elxem Yükleniyor.…⁠ᘛ⁠⁐̤⁠ᕐ⁠ᐷ"
 
 pkg update
 
