@@ -18,6 +18,8 @@ figlet "JuanE" | lolcat
 
 echo "Is updated Elxbrut"
 
+cd ..
+
 cd
 
 
