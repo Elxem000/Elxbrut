@@ -1,5 +1,4 @@
 
-
 cd ..
 
 rm -fr Elxbrut
@@ -16,23 +15,8 @@ clear
 
 figlet "JuanE" | lolcat
 
-
-echo "/⁠╲⁠/⁠\⁠╭⁠(⁠•⁠‿⁠•⁠)⁠╮⁠/⁠\⁠╱⁠\"
+cd
 
 echo "Elxbrut güncelendi."
 
-
-cd ..
-
-
-
-
-
-
-
-
-
-
-
-
-
+echo "(⁠^⁠.⁠_⁠.⁠^⁠)⁠ﾉ"
