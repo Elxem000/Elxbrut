@@ -16,11 +16,13 @@ clear
 
 figlet "JuanE" | lolcat
 
-echo "Elxbrut günceleniyor.…⁠ᘛ⁠⁐̤⁠ᕐ⁠ᐷ"
+echo "/⁠╲⁠/⁠\⁠╭⁠(⁠•⁠‿⁠•⁠)⁠╮⁠/⁠\⁠╱⁠\"
+
+echo "Elxbrut güncelendi."
+
 
 cd ..
 
-cd
 
 
 
