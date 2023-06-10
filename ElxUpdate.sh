@@ -16,6 +16,7 @@ clear
 
 figlet "JuanE" | lolcat
 
+
 echo "/⁠╲⁠/⁠\⁠╭⁠(⁠•⁠‿⁠•⁠)⁠╮⁠/⁠\⁠╱⁠\"
 
 echo "Elxbrut güncelendi."
