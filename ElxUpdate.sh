@@ -16,7 +16,7 @@ clear
 
 figlet "JuanE" | lolcat
 
-echo "Is updated"
+echo "Is updated Elxbrut"
 
 cd
 
