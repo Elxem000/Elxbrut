@@ -1,4 +1,4 @@
-import sleep
+
 from instabot import Bot
 
 print("ELXBRUT…⁠ᘛ⁠⁐̤⁠ᕐ⁠ᐷ")
