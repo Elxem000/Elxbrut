@@ -10,3 +10,5 @@ pkg upgrade
 pip install sleep
 
 pip install instabot
+
+clear
