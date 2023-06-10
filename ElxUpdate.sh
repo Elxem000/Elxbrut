@@ -17,6 +17,5 @@ figlet "JuanE" | lolcat
 
 cd
 
-echo "Elxbrut güncelendi."
+echo "Elxbrut güncelendi.(⁠^⁠.⁠_⁠.⁠^⁠)⁠ﾉ"
 
-echo "(⁠^⁠.⁠_⁠.⁠^⁠)⁠ﾉ"
